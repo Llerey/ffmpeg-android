@@ -1,5 +1,3 @@
 # ffmpeg-android
 
-Ffmpeg android utils
-Stabile release
-https://github.com/Llerey/ffmpeg-android/releases
+Test version of the Magisk module for Android 
